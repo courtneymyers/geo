@@ -1,0 +1,13 @@
+{
+  "name": "@myers/geo",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "data": "make",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Courtney Myers <courtney.aaron.myers@gmail.com> (github.com/courtneymyers)",
+  "license": "ISC",
+  "dependencies": {}
+}
